@@ -160,7 +160,7 @@ const handleClick = () => {
                   ></input> */}
                   <textarea className="row-span-5 col-span-10 w-full h-20  bg-gray-100 rounded-lg px-3 resize-none focus:outline-0"></textarea>
                   <div className="flex justify-end text-end items-end">
-                  <div className="bg-[rgb(251,179,4)] rounded-md mt-7 text-sm w-1/2 md:w-40 text-center h-10 justify-center items-center">
+                  <div className="bg-[rgb(251,179,4)] rounded-md mt-7 text-sm w-1/2 md:w-40 text-center h-10 flex justify-center items-center">
                     
                    <Email />
                     
